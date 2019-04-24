@@ -15,7 +15,7 @@ require (
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/pprof v0.0.0-20190404155422-f8f10df84213 // indirect
 	github.com/gorilla/mux v1.7.1 // indirect
-	github.com/grpc-ecosystem/grpc-gateway v1.8.5 // indirect
+	github.com/grpc-ecosystem/grpc-gateway v1.8.5
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
@@ -43,7 +43,7 @@ require (
 	golang.org/x/tools v0.0.0-20190418235243-4796d4bd3df0 // indirect
 	google.golang.org/api v0.3.2 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
-	google.golang.org/genproto v0.0.0-20190418145605-e7d98fc518a7 // indirect
+	google.golang.org/genproto v0.0.0-20190418145605-e7d98fc518a7
 	google.golang.org/grpc v1.20.1
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 	honnef.co/go/tools v0.0.0-20190418001031-e561f6794a2a // indirect
